@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lud-mashina/static/css/main.b55ab832.css",
+    "main.js": "/lud-mashina/static/js/main.451eea27.js",
+    "static/js/787.83cad17f.chunk.js": "/lud-mashina/static/js/787.83cad17f.chunk.js",
+    "static/media/tur2.jpeg": "/lud-mashina/static/media/tur2.7c9ea92d5295aa52525e.jpeg",
+    "static/media/tur3.jpg": "/lud-mashina/static/media/tur3.330ea13f535cd4ced739.jpg",
+    "static/media/tur1.jpg": "/lud-mashina/static/media/tur1.9830b631e0a93ac5a183.jpg",
+    "static/media/tur4.jpg": "/lud-mashina/static/media/tur4.df0c1dcba59a7ebed8b3.jpg",
+    "static/media/logo .png": "/lud-mashina/static/media/logo .398c234ce61113ad6280.png",
+    "static/media/foto3.jpg": "/lud-mashina/static/media/foto3.78a5e4a426972ff73a67.jpg",
+    "static/media/foto1.jpg": "/lud-mashina/static/media/foto1.ab65baa04d3c6804b718.jpg",
+    "static/media/foto2.jpg": "/lud-mashina/static/media/foto2.efcdac30cc5bc43fa738.jpg",
+    "index.html": "/lud-mashina/index.html",
+    "main.b55ab832.css.map": "/lud-mashina/static/css/main.b55ab832.css.map",
+    "main.451eea27.js.map": "/lud-mashina/static/js/main.451eea27.js.map",
+    "787.83cad17f.chunk.js.map": "/lud-mashina/static/js/787.83cad17f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55ab832.css",
+    "static/js/main.451eea27.js"
+  ]
+}
